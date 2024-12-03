@@ -3,6 +3,12 @@ body {
     margin: 20px;
     padding: 0;
 }
+h1{
+    font-family: cursive;
+    color: rgb(243, 145, 60);
+    background-color: rgba(136, 189, 235, 0.751);
+    padding-left: 650px;
+}
 input {
     padding: 10px;
     margin-right: 5px;
